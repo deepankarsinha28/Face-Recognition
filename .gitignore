@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+models/final_model.h5
+data/*.p
+images/*.jpg
+*.ipynb_checkpoints
